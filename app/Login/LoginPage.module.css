@@ -1,0 +1,282 @@
+.loginPageChild {
+    position: absolute;
+    top: -50px;
+    left: 298px;
+    border-radius: 50%;
+    background-color: var(--color-deeppink-100);
+    filter: blur(400.77px);
+    width: 166px;
+    height: 390px;
+  }
+  .signUp,
+  .signUpNow {
+    position: absolute;
+    display: inline-block;
+  }
+  .signUp {
+    top: 599px;
+    left: 146px;
+    font-size: 130px;
+    letter-spacing: -0.02em;
+    line-height: 120%;
+    font-weight: 600;
+    width: 484px;
+    height: 115px;
+  }
+  .signUpNow {
+    top: 786px;
+    left: 157px;
+    font-size: 27px;
+    line-height: 130%;
+    font-weight: 500;
+    color: rgba(253, 253, 253, 0.9);
+    width: 453px;
+    height: 128px;
+  }
+  .loginPageChild1,
+  .loginPageInner,
+  .loginPageItem,
+  .rectangleDiv {
+    position: absolute;
+    top: 922px;
+    left: 159px;
+    border-radius: 2.29px;
+    border: 0.6px solid var(--color-gray-300);
+    box-sizing: border-box;
+    width: 39px;
+    height: 39px;
+  }
+  .loginPageChild1,
+  .loginPageInner,
+  .rectangleDiv {
+    left: 206px;
+  }
+  .loginPageChild1,
+  .rectangleDiv {
+    left: 256px;
+  }
+  .loginPageChild1 {
+    left: 306px;
+  }
+  .ellipseDiv,
+  .loginPageChild2 {
+    position: absolute;
+    border-radius: 50%;
+  }
+  .ellipseDiv {
+    top: 295.9px;
+    left: 1294px;
+    background-color: var(--color-fuchsia);
+    filter: blur(328.92px);
+    width: 279.6px;
+    height: 242.4px;
+    transform: rotate(-3.06deg);
+    transform-origin: 0 0;
+  }
+  .loginPageChild2 {
+    top: 927px;
+    left: 1373px;
+    background-color: var(--color-deeppink-100);
+    filter: blur(400.77px);
+    width: 166.5px;
+    height: 329.6px;
+  }
+  .groupIcon {
+    position: absolute;
+    top: 0;
+    left: 159px;
+    width: 405px;
+    height: 614px;
+    object-fit: cover;
+  }
+  .hugeIconsocialsolidtwitter {
+    position: absolute;
+    top: 931px;
+    left: 168px;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+  }
+  .component1facebookIcon,
+  .hugeIconsocialsolidinstagr,
+  .icroundDiscordIcon {
+    position: absolute;
+    top: 931px;
+    left: 215px;
+    width: 22px;
+    height: 21px;
+    overflow: hidden;
+  }
+  .component1facebookIcon,
+  .icroundDiscordIcon {
+    left: 315px;
+  }
+  .icroundDiscordIcon {
+    left: 265px;
+  }
+  .followUs {
+    position: absolute;
+    top: 892px;
+    left: 159px;
+    font-size: 11.02px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 80px;
+    height: 19px;
+  }
+  .loginPageChild3,
+  .loginPageChild4 {
+    position: absolute;
+    top: 390px;
+    left: 826px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-gray-400);
+    width: 363px;
+    height: 46px;
+  }
+  .loginPageChild4 {
+    top: 470px;
+    left: 830px;
+    width: 359px;
+  }
+  .loginPageChild5 {
+    position: absolute;
+    top: 646px;
+    left: 926px;
+    border-radius: 30px;
+    background-color: #37dfef;
+    width: 162px;
+    height: 46px;
+  }
+  .emailAddress,
+  .password {
+    position: absolute;
+    top: 402px;
+    left: 858px;
+    line-height: 130%;
+    font-weight: 500;
+    color: var(--color-darkslategray-100);
+  }
+  .password {
+    top: 482px;
+  }
+  .resetPassword {
+    color: #1ff1ff;
+  }
+  .forgotPasswordResetContainer {
+    position: absolute;
+    top: 525px;
+    left: 850px;
+    font-size: var(--font-size-smi);
+    line-height: 130%;
+  }
+  .signUp1 {
+    position: absolute;
+    top: 653px;
+    left: 979px;
+    font-size: var(--font-size-3xl);
+    font-weight: 600;
+    color: var(--color-gray-200);
+    text-align: center;
+  }
+  .loginPageChild6 {
+    position: absolute;
+    top: 636px;
+    left: 834px;
+    border-radius: 50%;
+    background-color: rgba(0, 236, 255, 0.9);
+    filter: blur(239.28px);
+    width: 138.3px;
+    height: 82.3px;
+  }
+  .doubleArrowIcon,
+  .doubleArrowIcon1,
+  .iconGoogle {
+    position: absolute;
+    top: 658px;
+    left: 947px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .doubleArrowIcon1,
+  .iconGoogle {
+    top: 113px;
+    left: 1228px;
+  }
+  .iconGoogle {
+    height: 2.44%;
+    width: 1.74%;
+    top: 55.96%;
+    right: 32.99%;
+    bottom: 41.6%;
+    left: 65.28%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .iconFacebook,
+  .vectorIcon {
+    position: absolute;
+    top: 573px;
+    left: 996px;
+    width: 25px;
+    height: 25px;
+    overflow: hidden;
+  }
+  .vectorIcon {
+    height: 2.71%;
+    width: 1.67%;
+    top: 55.76%;
+    right: 25.28%;
+    bottom: 41.52%;
+    left: 73.06%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .groupChild {
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    border-radius: 100px;
+    width: 57px;
+    height: 57px;
+    object-fit: cover;
+  }
+  .userTooltipInner {
+    position: relative;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 49px;
+    height: 49px;
+  }
+  .userTooltip {
+    position: absolute;
+    top: 100px;
+    left: 1351px;
+    border-radius: var(--br-xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .logIn {
+    position: absolute;
+    top: 110px;
+    left: 1261px;
+    font-size: var(--font-size-3xl);
+    line-height: 130%;
+    font-weight: 600;
+  }
+  .loginPage {
+    position: relative;
+    border-radius: var(--br-xl);
+    background-color: var(--color-gray-200);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-mid);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  
