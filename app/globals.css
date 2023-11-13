@@ -135,7 +135,7 @@ body {
 .overflow-container {
   position: relative;
   height: calc(100vh - 0px)!important;
-  overflow-y:hidden;
+  overflow-y:auto;
   border-top: 73px solid #2D2F39;
   z-index: -1;
   display:block;
@@ -499,7 +499,7 @@ color: #f00a0a;
   letter-spacing: 0.06em;
   }
 
-  .explore-parent {
+.explore-parent {
   position: absolute;
   top:717px;
   left:616px;

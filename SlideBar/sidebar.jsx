@@ -118,18 +118,18 @@ const sidebar = () => {
                     <div class="step-into-the">Step into the future with our virtual headset, come to life right before your eyes</div>
 
 
-                    <div class="Letsgo">
+                    <button class="Letsgo">
                         <img class="" alt="" src=""/>
                         <div class="lets-go">
                         <span>Let’s </span>
                         <span class="go">Go</span>
                         </div>
-                    </div>
+                    </button>
 
-                    <div class="explore-parent">
+                    <button class="explore-parent">
                         <img class="explore-icon" alt="" src="explore.svg"/>
                         <b class="see-all-games">SEE ALL GAMES</b>
-                    </div>
+                    </button>
 
 
 
