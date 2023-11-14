@@ -74,13 +74,7 @@ const heropage = () => {
 
                     <div class="rectangle2-div"></div>
 
-                    {/* <img class="rectangle-icon" alt="" src=""></img> */}
-
-                    <div class="test">
-
-                        <img src="/images/sector logo.png" alt="sector logo"></img>
-
-                    </div>
+                    <img class="slogo3" alt="" src="/images/s1.png" ></img>
 
 
                     </div>
