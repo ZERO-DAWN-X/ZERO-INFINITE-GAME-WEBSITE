@@ -1,25 +1,30 @@
 .test1 {
-  width: 400px;
-  height: 400px;
+  width: 800px;
+  height: 800px;
   position: absolute;
-  left: 1300px;
+  left: 1000px;
   
 
 }
 
 .test2 {
-  width: 400px;
-  height: 400px;
+  width: 800px;
+  height: 800px;
   position: absolute;
-  left: 1300px;
+  left: 1000px;
   
   mix-blend-mode:screen;
   object-fit: cover;
   object-position: center;
+  mask-mode: alpha;
 }
 
-img{
-  width: 500px;
-  height: 300px;
-  position: absolute;
+img {
+  display: block;
+  width: 100%; 
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-size: 100%;  
+  mask-image: url(/images/splash1.png);
+  /* mask-mode: alpha; */
 }

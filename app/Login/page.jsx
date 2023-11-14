@@ -10,7 +10,7 @@ function page() {
 
         <img src='/images/test1.jpg' class="test1"></img>
 
-        <img src='/images/splash.jpg' class="test2"></img>
+        <img src='/images/splash1.png' class="test2"></img>
 
     </div>
   )
